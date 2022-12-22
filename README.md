@@ -3,3 +3,4 @@ A list of malicious links with domains which are used for scamming on Discord. C
 
 # Credits
 > https://github.com/nikolaischunk/discord-phishing-links
+> ^ Combined all the files.
